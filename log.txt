@@ -1,0 +1,52 @@
+01-05 08:07:36.057: V/ActivityThread(6971): >>> handling: SLEEPING
+01-05 08:07:36.077: V/ActivityThread(6971): <<< done: SLEEPING
+01-05 08:07:36.077: V/ActivityThread(6971): >>> handling: SLEEPING
+01-05 08:07:36.077: V/ActivityThread(6971): <<< done: SLEEPING
+01-05 08:07:36.077: V/ActivityThread(6971): >>> handling: RESUME_ACTIVITY
+01-05 08:07:36.077: V/ActivityThread(6971): <<< done: RESUME_ACTIVITY
+01-05 08:07:36.137: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService.startRanging:231 Start ranging: Region{identifier=VOLIAM, proximityUUID=null, major=null, minor=null}
+01-05 08:07:36.137: D/BluetoothAdapter(6971): startLeScan(): null
+01-05 08:07:36.137: D/BluetoothAdapter(6971): onClientRegistered() - status=0 clientIf=4
+01-05 08:07:36.187: D/BluetoothAdapter(6971): onScanResult() - Device=D0:39:72:BE:A7:9A RSSI=-86
+01-05 08:07:36.187: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device D0:39:72:BE:A7:9A is not an Estimote beacon
+01-05 08:07:36.397: D/BluetoothAdapter(6971): onScanResult() - Device=34:B1:F7:D0:54:4B RSSI=-94
+01-05 08:07:36.407: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device 34:B1:F7:D0:54:4B is not an Estimote beacon
+01-05 08:07:36.757: D/BluetoothAdapter(6971): onScanResult() - Device=BC:6A:29:27:C9:8C RSSI=-96
+01-05 08:07:36.757: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device BC:6A:29:27:C9:8C is not an Estimote beacon
+01-05 08:07:37.147: D/BluetoothAdapter(6971): stopLeScan()
+01-05 08:07:37.157: D/BluetoothAdapter(6971): startLeScan(): null
+01-05 08:07:37.157: D/BluetoothAdapter(6971): onClientRegistered() - status=0 clientIf=4
+01-05 08:07:37.407: D/BluetoothAdapter(6971): onScanResult() - Device=34:B1:F7:D0:54:4B RSSI=-95
+01-05 08:07:37.407: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device 34:B1:F7:D0:54:4B is not an Estimote beacon
+01-05 08:07:37.447: D/BluetoothAdapter(6971): onScanResult() - Device=D0:39:72:BE:A7:AB RSSI=-62
+01-05 08:07:37.447: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device D0:39:72:BE:A7:AB is not an Estimote beacon
+01-05 08:07:37.497: V/ActivityThread(6971): >>> handling: PAUSE_ACTIVITY_FINISHING
+01-05 08:07:37.507: V/ActivityThread(6971): <<< done: PAUSE_ACTIVITY_FINISHING
+01-05 08:07:37.507: V/ActivityThread(6971): >>> handling: RESUME_ACTIVITY
+01-05 08:07:37.507: V/ActivityThread(6971): <<< done: RESUME_ACTIVITY
+01-05 08:07:37.767: D/BluetoothAdapter(6971): onScanResult() - Device=BC:6A:29:27:C9:8C RSSI=-94
+01-05 08:07:37.777: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device BC:6A:29:27:C9:8C is not an Estimote beacon
+01-05 08:07:37.827: D/BluetoothAdapter(6971): onScanResult() - Device=BC:6A:29:27:CB:27 RSSI=-59
+01-05 08:07:37.837: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService$InternalLeScanCallback.onLeScan:522 Device BC:6A:29:27:CB:27 is not an Estimote beacon
+01-05 08:07:37.867: V/ActivityThread(6971): >>> handling: DESTROY_ACTIVITY
+01-05 08:07:37.887: V/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService.stopRanging:238 Stopping ranging: VOLIAM
+01-05 08:07:37.887: I/EstimoteSDK(6971): com.estimote.sdk.service.BeaconService.onDestroy:209 Service destroyed
+01-05 08:07:37.887: V/ActivityThread(6971): <<< done: DESTROY_ACTIVITY
+01-05 08:07:37.887: V/ActivityThread(6971): >>> handling: UNBIND_SERVICE
+01-05 08:07:37.887: V/ActivityThread(6971): <<< done: UNBIND_SERVICE
+01-05 08:07:37.887: V/ActivityThread(6971): >>> handling: STOP_SERVICE
+01-05 08:07:37.897: D/BluetoothAdapter(6971): stopLeScan()
+01-05 08:07:37.907: D/BluetoothAdapter(6971): stopLeScan()
+01-05 08:07:37.907: V/ActivityThread(6971): <<< done: STOP_SERVICE
+01-05 08:07:37.907: V/ActivityThread(6971): >>> handling: CLEAN_UP_CONTEXT
+01-05 08:07:37.907: V/ActivityThread(6971): <<< done: CLEAN_UP_CONTEXT
+01-05 08:07:37.907: V/ActivityThread(6971): >>> handling: CLEAN_UP_CONTEXT
+01-05 08:07:37.907: V/ActivityThread(6971): <<< done: CLEAN_UP_CONTEXT
+01-05 08:07:40.287: V/ActivityThread(6971): >>> handling: PAUSE_ACTIVITY
+01-05 08:07:40.297: V/ActivityThread(6971): <<< done: PAUSE_ACTIVITY
+01-05 08:07:40.317: V/ActivityThread(6971): >>> handling: TRIM_MEMORY
+01-05 08:07:40.317: V/ActivityThread(6971): <<< done: TRIM_MEMORY
+01-05 08:07:40.747: V/ActivityThread(6971): >>> handling: STOP_ACTIVITY_HIDE
+01-05 08:07:40.747: V/ActivityThread(6971): <<< done: STOP_ACTIVITY_HIDE
+01-05 08:08:10.857: V/ActivityThread(6971): >>> handling: SLEEPING
+01-05 08:08:10.857: V/ActivityThread(6971): <<< done: SLEEPING

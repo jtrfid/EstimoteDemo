@@ -1,0 +1,2 @@
+来自于：Estimote原始demo
+不能识别非Estimote信标beacon
